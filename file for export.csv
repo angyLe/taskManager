@@ -1,0 +1,8 @@
+id;ArbBokstav;ArbeidsOrder;IOnr;Info;Plassering;BlokkEtg;BranndetektorNr;Brannsentral;StartDato;SluttDato;Status;Timer;
+1;M;0;;antonio;M;;;;;;;0;
+2;M;1;;bla bla;;;N;1;18.08.2014;22.08.2014;Ferdig;0;
+3;M;2015;3;antonio;Oslo;2;301;S;19.08.2014;23.08.2014;Ikke ferdig;0;
+4;M;2016;4;angelika; ;2;301;S;13.08.2014; 17.08.2014 ;Ferdig;0;
+5;M;2017;5;levliukh angel; ;9;301;8;13.08.2014;17.08.2014;Ferdig;0;
+6;M;0; ;antonio;M; ; ; ;04.08.2014;08.08.2014;Ikke ferdig;0;
+7;M;1000000; ;Felles feil på brann sentral MG12;MG12;1; ;BS-320 AA nr2/ BS-320 A nr1; ; ;Ferdig;0;
